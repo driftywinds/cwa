@@ -7,7 +7,7 @@ Also available on Docker Hub - [```driftywinds/cwa:latest```](https://hub.docker
 How to use: - 
 
 1. Follow instructions of the official repo from [here](https://github.com/crocodilestick/Calibre-Web-Automated?tab=readme-ov-file#using-docker-compose-recommended).
-2. Replace the "image" part of the docker-compose.yml to ```driftywinds/cwa:latest```.
+2. Replace the "image" part of the docker-compose.yml to ```ghcr.io/driftywinds/cwa:latest```.
 
 <br>
 
